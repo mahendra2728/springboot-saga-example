@@ -1,0 +1,7 @@
+payment\PaymentServiceApplication.class
+payment\repository\PaymentRepository.class
+payment\service\PaymentService.class
+payment\repository\UserAccountRepository.class
+payment\entity\UserAccount.class
+payment\entity\Payment.class
+payment\config\OrderConsumeConfig.class
